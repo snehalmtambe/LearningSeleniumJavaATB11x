@@ -1,4 +1,4 @@
-package org.example.ex01_SeleniumBasics;
+package org.example.ex01_Selenium_Basics;
 
 import org.openqa.selenium.edge.EdgeDriver;
 import org.testng.annotations.Test;

@@ -1,4 +1,4 @@
-package org.example.ex01_SeleniumBasics;
+package org.example.ex01_Selenium_Basics;
 
 import io.qameta.allure.Description;
 import io.qameta.allure.Owner;
