@@ -1,9 +1,8 @@
-package org.example.ex07_Action_Class;
+package org.example.ex08_File_Upload;
 
 import org.example.CommonToAll;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.Test;
 
 public class TestSelenium_File_Upload extends CommonToAll {
